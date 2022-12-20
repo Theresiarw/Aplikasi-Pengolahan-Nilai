@@ -1,0 +1,19 @@
+
+body {
+  background: rgba(165,255,140,1);
+  background: -moz-linear-gradient(left, rgba(165,255,140,1) 0%, rgba(176,254,134,1) 27%, rgba(188,252,128,1) 56%, rgba(188,252,128,1) 68%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(165,255,140,1)), color-stop(27%, rgba(176,254,134,1)), color-stop(56%, rgba(188,252,128,1)), color-stop(68%, rgba(188,252,128,1)));
+  background: -webkit-linear-gradient(left, rgba(165,255,140,1) 0%, rgba(176,254,134,1) 27%, rgba(188,252,128,1) 56%, rgba(188,252,128,1) 68%);
+  background: -o-linear-gradient(left, rgba(165,255,140,1) 0%, rgba(176,254,134,1) 27%, rgba(188,252,128,1) 56%, rgba(188,252,128,1) 68%);
+  background: -ms-linear-gradient(left, rgba(165,255,140,1) 0%, rgba(176,254,134,1) 27%, rgba(188,252,128,1) 56%, rgba(188,252,128,1) 68%);
+  background: linear-gradient(to right, rgba(165,255,140,1) 0%, rgba(176,254,134,1) 27%, rgba(188,252,128,1) 56%, rgba(188,252,128,1) 68%);
+
+}
+
+.colorgraph{
+  background: -webkit-linear-gradient(90deg, #FF512F 10%, #DD2476 90%);
+  background: -moz-linear-gradient(90deg, #FF512F 10%, #DD2476 90%);
+  background: -ms-linear-gradient(90deg, #FF512F 10%, #DD2476 90%);
+  background: -o-linear-gradient(90deg, #FF512F 10%, #DD2476 90%);
+  background: linear-gradient(90deg, #FF512F 10%, #DD2476 90%);
+}
